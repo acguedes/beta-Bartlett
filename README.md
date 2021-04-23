@@ -1,5 +1,5 @@
 # Bartlett-corrected tests for varying precision beta regressions with application to environmental biometrics
-The computer code can be used to perform empirical application of the article.
+The computer code can be used to replicate the empirical analysis presented in the article.
 
 # Authors
 Ana C. Guedes, Francisco Cribari-Neto, Patrı́cia L. Espinheira
