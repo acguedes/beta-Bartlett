@@ -30,7 +30,7 @@ ratio test statistic ($\omega$), the third Bartlett-corrected test statistic ($\
 test statistic ($\omega_{a1}$). The p-values of such tests are also computed. 
 
 #### Reduced Model 
-The program can be used to calculate the parameter estimates and asymptotic standard errors for the reduced model and also 
+The program can be used to calculate the parameter estimates and asymptotic standard errors for the reduced model (Model 2R) and also 
 the fitted model quality measures.
 
 ## Bartlett correction factor 
