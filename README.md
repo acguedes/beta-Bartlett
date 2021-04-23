@@ -11,7 +11,7 @@ R statistical computing environment.
 ## Data analysis
 The programs can be used to replicate some of the empirical results presented in the fourth section of the article. 
 
-#### Atheists data
+#### Data on the prevalence of atheism
 Data on the fifty countries with the largest prevalence of atheists (n = 50) from Cribari-Neto and Souza (2013).
 
 #### Application 1 
@@ -39,7 +39,7 @@ The function returns the quantity epsilon_k that is used in the Bartlett's corre
 given in presented in Cordeiro (1993) to obtain the Bartlett correction factor for varying precision beta regressions.
 
 # Files 
-#### Atheists data
+#### Data on the prevalence of atheism
 * atheists-data.txt
 #### Application 1 
 * application1.r
